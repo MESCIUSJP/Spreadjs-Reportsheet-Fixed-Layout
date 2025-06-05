@@ -1,0 +1,74 @@
+{
+    "Invoices": [
+      {
+        "BillNo": "I-88392",
+        "ShopID": "S-00001",
+        "ShopName": "北日本株式会社",
+        "CustomerName": "島村康子",
+        "Address": "宮城県仙台市青葉区本町9-9-9",
+        "PostalCode": "980-0014",
+        "ProductName": "スイートアーモンド",
+        "UnitPrice": 90,
+        "QTY": 200,
+        "BillingDate": "2024/09/05",
+        "DueDate": "2024/09/19",
+        "ShippingCost":  900
+      },
+      {
+        "BillNo": "I-88392",
+        "ShopID": "S-00001",
+        "ShopName": "北日本株式会社",
+        "CustomerName": "島村康子",
+        "Address": "宮城県仙台市青葉区本町9-9-9",
+        "PostalCode": "980-0014",
+        "ProductName": "グレープシード",
+        "UnitPrice": 120,
+        "QTY": 100,
+        "BillingDate": "2024/09/05",
+        "DueDate": "2024/09/19",
+        "ShippingCost": 900
+      },
+      {
+        "BillNo": "I-88392",
+        "ShopID": "S-00001",
+        "ShopName": "北日本株式会社",
+        "CustomerName": "島村康子",
+        "Address": "宮城県仙台市青葉区本町9-9-9",
+        "PostalCode": "980-0014",
+        "ProductName": "えごま",
+        "UnitPrice": 150,
+        "QTY": 50,
+        "BillingDate": "2024/09/05",
+        "DueDate": "2024/09/19",
+        "ShippingCost": 900
+      },
+      {
+        "BillNo": "I-88393",
+        "ShopID": "S-00002",
+        "ShopName": "居酒屋ななべえ",
+        "CustomerName": "紫山一郎",
+        "Address": "宮城県仙台市泉区青山123-1",
+        "PostalCode": "981-0088",
+        "ProductName": "オタル白ラベル",
+        "UnitPrice": 350,
+        "QTY": 100,
+        "BillingDate": "2024/09/07",
+        "DueDate": "2024/09/21",
+        "ShippingCost": 900
+      },
+      {
+        "BillNo": "I-88393",
+        "ShopID": "S-00002",
+        "ShopName": "居酒屋ななべえ",
+        "CustomerName": "紫山一郎",
+        "Address": "宮城県仙台市泉区青山123-1",
+        "PostalCode": "981-0088",
+        "ProductName": "バードワイン",
+        "UnitPrice": 500,
+        "QTY": 30,
+        "BillingDate": "2024/09/07",
+        "DueDate": "2024/09/21",
+        "ShippingCost": 900
+      }
+    ]
+}
